@@ -11,6 +11,7 @@ lib/
 build.ninja
 .ninja_deps
 .ninja_log
+.ninja_lock
 
 # clangd support
 compile_commands.json
