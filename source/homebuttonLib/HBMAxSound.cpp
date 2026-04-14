@@ -19,7 +19,7 @@
 #include "sound/syn.h"
 
 // #include <revolution/ai.h>
-// #include <revolution/arc.h>
+#include <revolution/arc.h>
 // #include <revolution/ax.h>
 // #include <revolution/os.h>
 // #include <revolution/os/OSInterrupt.h>

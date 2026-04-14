@@ -22,3 +22,6 @@ objdiff.json
 
 # python
 __pycache__/
+
+# vscode
+.vscode/

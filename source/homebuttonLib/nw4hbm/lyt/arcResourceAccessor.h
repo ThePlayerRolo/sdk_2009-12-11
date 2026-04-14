@@ -11,7 +11,7 @@
 
 #include "../ut/LinkList.h"
 
-// #include <revolution/arc.h>
+#include <revolution/arc.h>
 
 #include <context_rvl.h>
 

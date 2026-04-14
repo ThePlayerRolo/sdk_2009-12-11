@@ -7,7 +7,7 @@
  
 #include <revolution/types.h>
 
-// #include <revolution/arc.h>
+#include <revolution/arc.h>
 // #include <revolution/os/OSAlarm.h>
 #include <revolution/wenc.h>
 #include <revolution/wpad.h>

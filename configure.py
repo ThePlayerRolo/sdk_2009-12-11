@@ -278,7 +278,7 @@ config.libs = [
     RvlLib(
         "arc",
         [
-            Object(DebugNonMatching, ReleaseNonMatching, "arc/arc.c"),
+            Object(DebugMatching, ReleaseMatching, "arc/arc.c"),
         ],
     ),
     RvlLib(
